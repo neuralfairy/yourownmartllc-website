@@ -11,6 +11,9 @@ export const metadata: Metadata = {
   title: "Yourownmartllc Solutions - iEMA Email Marketing Automation",
   description:
     "Transform your B2B email marketing with iEMA's intelligent automation platform. Drive 45% higher open rates, nurture leads effectively, and maximize ROI with our advanced email marketing tools.",
+  icons: {
+    icon: "/favicon.png",
+  },
   keywords:
     "email automation, drip campaigns, marketing sequences, B2B sales tools, iEMA, email marketing, lead nurturing, marketing ROI",
   authors: [{ name: "Yourownmartllc Solutions" }],

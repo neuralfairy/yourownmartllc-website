@@ -155,7 +155,7 @@ export default function Footer() {
             <div className="flex flex-col sm:flex-row items-center gap-6 text-sm text-gray-400">
               <span>© 2024 Yourownmartllc Solutions. All rights reserved.</span>
               <div className="flex items-center gap-6">
-                <Link href="/privacy" className="hover:text-white transition-colors">
+                <Link href="/privacy-policy" className="hover:text-white transition-colors">
                   Privacy Policy
                 </Link>
                 <Link href="/terms" className="hover:text-white transition-colors">
